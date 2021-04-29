@@ -6,7 +6,7 @@
 - 📫 How to reach me: louiejf1@gmail.com
 - ⚡ Fun fact: I enjoy solving problems, outdoor activities, art, science. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiejf1&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiejf1&hide=contribs,prs&theme=tokyonight)]
 
 ### Top Technologies:
 React, HTML, CSS, JavaScript, Node, Python, Scikit-learn, Pandas, Numpy...
