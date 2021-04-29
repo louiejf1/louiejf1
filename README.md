@@ -1,10 +1,10 @@
 ### Hi I'm Louie Flores 👋
 
 - 🔭 I’m currently working on web applications and machine learning applications. 
-- 🌱 I’m currently learning Python, Machine learning, Artificial Inteligence. 
-- 💬 Ask me about projetcs currently in development. 
+- 🌱 I’m currently learning Python, Machine learning, Artificial intelligence. 
+- 💬 Ask me about projects currently in development. 
 - 📫 How to reach me: louiejf1@gmail.com
-- ⚡ Fun fact: I enjoy solving problems. 
+- ⚡ Fun fact: I enjoy solving problems, outdoor activities, art, science. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiejf1&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
